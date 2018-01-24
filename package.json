@@ -1,0 +1,19 @@
+{
+  "name": "iris",
+  "version": "1.0.0",
+  "description": "iris app - node microservice tutorial",
+  "main": "server/service.js",
+  "scripts": {
+    "start": "node bin/run.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.15.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.2",
+    "lodash": "^4.17.4",
+    "superagent": "^3.8.2"
+  }
+}

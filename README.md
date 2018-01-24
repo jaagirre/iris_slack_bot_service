@@ -1,0 +1,1 @@
+This is a service developed with node.js and express.js. This service is based ob Daniel Khan tutorial about developing microservices. This service is a slack bot , that can respond to wetaher and time questions.
